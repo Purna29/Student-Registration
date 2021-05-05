@@ -1,0 +1,6 @@
+# Student-Registration
+Student Registration Project
+
+The website “Course Registration System”, Where it primarily has Admin and User account. 
+Admin can add Students and made them accessible to this website. Users can login and enroll for particular courses
+and they can able to see their completed courses, Current registered courses and Failed courses in their academic semesters.
